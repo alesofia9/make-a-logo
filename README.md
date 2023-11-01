@@ -49,7 +49,7 @@ Answer the prompts in your command line to generate the Logo.
 
 After answering all the prompts, your Logo file will be named 'logo.svg' and will be ready for you to preview by right clicking the file and Open a Live Server or Preview SVG if extention has been installed.
 
-URL to Repository:
+URL to Repository: https://github.com/alesofia9/make-a-logo
   
 ## [Usage](#table-of-contents)
   
